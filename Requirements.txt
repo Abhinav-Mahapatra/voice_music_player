@@ -1,0 +1,8 @@
+# For removing Youtube UI
+pafy==0.5.5
+
+# For Speech recognition
+SpeechRecognition==3.8.1
+
+# Tertiary modules
+urllib3==1.22
