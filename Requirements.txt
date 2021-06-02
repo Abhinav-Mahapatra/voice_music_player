@@ -5,4 +5,4 @@ pafy==0.5.5
 SpeechRecognition==3.8.1
 
 # Tertiary modules
-urllib3==1.22
+urllib3==1.26.5
